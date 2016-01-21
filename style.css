@@ -1,0 +1,25 @@
+header {
+    font-size: 70px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 200px;
+    height: 360px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url("http://img09.deviantart.net/db40/i/2015/146/3/f/super_mario_bros__phone_background_by_urlogicfails-d8ut0lt.png");
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+    font-size: 12px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+    font-size: 20px;
+}
